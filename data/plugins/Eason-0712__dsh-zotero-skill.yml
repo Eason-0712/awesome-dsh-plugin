@@ -2,5 +2,5 @@ url: https://github.com/Eason-0712/dsh-zotero-skill
 name: Eason-0712/dsh-zotero-skill
 category: skill
 description:
-  en: 'Zotero skill for DeepSeek Harness: reads papers with page-anchored Q&A, full-text translation, native highlights and Chinese notes, bilingual PDF and paragraph Markdown, evidence comparison tables, and reviews with citation tracking; finds papers on OpenAlex or Crossref, imports Chinese CNKI export files, classifies the library into research-direction folders, and surfaces research gaps. Standard-library Python; adapted from OpenAI's MIT Zotero plugin.'
-  zh: '为 DeepSeek Harness 打造的 Zotero 文献技能：原文定位问答、全文翻译与精读、原生高亮和中文批注、双语 PDF 与逐段 Markdown、论文证据对比表、综述与引用追踪；支持 OpenAlex / Crossref / 知网导出文件三种来源，按研究方向建文件夹分类，并提炼脉络、发现空白。纯 Python 标准库，改编自 OpenAI 的 MIT Zotero 插件。'
+  en: 'Zotero skill for DeepSeek Harness: reads papers with page-anchored Q&A, full-text translation, native highlights and Chinese notes, bilingual PDF and paragraph Markdown, evidence comparison tables, and reviews with citation tracking; finds papers on OpenAlex or Crossref, imports Chinese CNKI export files, classifies the library into research-direction folders, surfaces research gaps, and runs a ranked daily digest of new papers. Standard-library Python; adapted from the OpenAI MIT Zotero plugin.'
+  zh: '为 DeepSeek Harness 打造的 Zotero 文献技能：原文定位问答、全文翻译与精读、原生高亮和中文批注、双语 PDF 与逐段 Markdown、论文证据对比表、综述与引用追踪；支持 OpenAlex / Crossref / 知网导出文件三种来源，按研究方向建文件夹分类、提炼脉络、发现空白，并可每日自动收录新论文。纯 Python 标准库，改编自 OpenAI 的 MIT Zotero 插件。'
